@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MIAAD - Programmation d’interfaces embarquées
 
 Encadré par : **Pr. S. BENHLIMA** <br>
@@ -24,3 +25,7 @@ Ce TP nous permet d'entrer au premier fenétre un text et lancer une deuxieme fe
 
 
 `Au cas où vous auriez des questions, n'hésitez pas à me contacter à `[mail](mailto:marwaneberiich@gmail.com)
+=======
+# MIAAD_Android
+Ce repository contient tous les TP de Module : Programmation d’interfaces embarquées  Pr. S. BENHLIMA
+>>>>>>> 33851759360a879e16ce398af03f9a25f3fdb3e0

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MIAAD First</string>
+    <string name="buttonVal">Voir 2eme</string>
+    <string name="textview">TextView</string>
+    <string name="text_edit">Taper ici..</string>
+    <string name="hint_text_edit">Tapez ici..</string>
+</resources>
